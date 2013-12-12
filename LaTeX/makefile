@@ -4,8 +4,10 @@ render: build
 	open -a $(VIEWER) $(DOC).pdf
 
 build:
-	latex $(DOC)
-	pdflatex $(DOC)
+	latex -shell-escape $(DOC)
+	bibtex $(DOC)
+	latex -shell-escape $(DOC)
+	pdflatex -shell-escape $(DOC)
 
 clean:
 	rm $(DOC).aux
