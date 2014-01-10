@@ -1,12 +1,12 @@
 \contentsline {section}{\numberline {1}Introduction}{1}{section.0.1}
-\contentsline {section}{\numberline {2}Method}{1}{section.0.2}
-\contentsline {subsection}{\numberline {2.1}Apparatus}{1}{subsection.0.2.1}
-\contentsline {subsection}{\numberline {2.2}Procedure}{1}{subsection.0.2.2}
-\contentsline {subsection}{\numberline {2.3}Design}{1}{subsection.0.2.3}
-\contentsline {subsection}{\numberline {2.4}Participants}{2}{subsection.0.2.4}
-\contentsline {section}{\numberline {3}Results}{2}{section.0.3}
-\contentsline {section}{\numberline {4}Discussion}{3}{section.0.4}
-\contentsline {section}{\numberline {5}References}{3}{section.0.5}
-\contentsline {section}{\numberline {6}Appendix}{4}{section.0.6}
-\contentsline {subsection}{\numberline {6.1}Materials and Apparatus}{4}{subsection.0.6.1}
-\contentsline {subsection}{\numberline {6.2}Raw Data and Calculations}{4}{subsection.0.6.2}
+\contentsline {section}{\numberline {2}Method}{2}{section.0.2}
+\contentsline {subsection}{\numberline {2.1}Apparatus}{2}{subsection.0.2.1}
+\contentsline {subsection}{\numberline {2.2}Procedure}{3}{subsection.0.2.2}
+\contentsline {subsection}{\numberline {2.3}Design}{3}{subsection.0.2.3}
+\contentsline {subsection}{\numberline {2.4}Participants}{4}{subsection.0.2.4}
+\contentsline {section}{\numberline {3}Results}{4}{section.0.3}
+\contentsline {section}{\numberline {4}Discussion}{5}{section.0.4}
+\contentsline {section}{\numberline {5}References}{6}{section.0.5}
+\contentsline {section}{\numberline {6}Appendix}{7}{section.0.6}
+\contentsline {subsection}{\numberline {6.1}Materials and Apparatus}{7}{subsection.0.6.1}
+\contentsline {subsection}{\numberline {6.2}Raw Data and Calculations}{7}{subsection.0.6.2}
